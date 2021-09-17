@@ -1,0 +1,10 @@
+@page
+{
+    size: A4;
+    alignment-adjust: central;;
+}
+#print-btn
+{
+    display: none;
+    visibility: none;
+}

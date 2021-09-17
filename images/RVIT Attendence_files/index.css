@@ -1,0 +1,72 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12 May, 2020, 4:37:03 PM
+    Author     : Aman Paul
+*/
+#banner-image{
+      padding-top: 40px;
+      padding-bottom: 45px;
+      text-align: center;
+      color: #f8f8f8;
+      background: url("images/rvit-campus.jpg") no-repeat center center;
+      background-size: cover;
+}
+#banner-image-2{
+      padding-top: 40px;
+      padding-bottom: 45px;
+      text-align: center;
+      color: #f8f8f8;
+      background: url("images/rvit1.jpg") no-repeat center center;
+      background-size: cover;
+}
+
+#banner-content{
+     position: relative;
+     padding-top: 6%;
+     padding-bottom: 6%;
+     margin-top: 4%;
+     margin-bottom: 6%;
+     overflow: hidden;
+     background-color: rgba(0, 0, 0, 0.7);
+     max-width: 640px;
+}
+footer{
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+}
+h3{
+    font: arial;
+}
+h2{
+    font: arial;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+#admin-panel{
+    text-align: center;
+     position: relative;
+     padding-top: 6%;
+     padding-bottom: 6%;
+     margin-top: 30%;
+     margin-bottom: 9%;
+     overflow: hidden;
+     max-width: 640px;
+}
+#jumb{
+    text-align: center;
+    position: relative;
+     padding-top: 3%;
+     padding-bottom: 3%;
+     margin-top: 6%;
+     margin-bottom:0%;
+     overflow: hidden;
+     max-width: 640px;
+     border: solid;
+}
